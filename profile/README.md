@@ -13,7 +13,7 @@ We’re rethinking what labeling tools can be — fast, intuitive, customizable,
 - 🧠 Keyboard shortcut customization
 - 🧩 Modular backend with Hono, Drizzle & Zod
 - 🧪 SAM2 integration (in progress)
-- 📤 Dataset export (coming soon)
+- 📤 Easy dataset export (YOLO and COCO)
 
 ---
 
