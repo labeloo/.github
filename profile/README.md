@@ -9,10 +9,10 @@ We’re rethinking what labeling tools can be — fast, intuitive, customizable,
 ## 🔥 Key Features
 
 - 🎥 Video & image annotation
-- ⚡ Blazing-fast Nuxt 3 frontend
+- ⚡ Blazing-fast Nuxt 4 frontend
 - 🧠 Keyboard shortcut customization
 - 🧩 Modular backend with Hono, Drizzle & Zod
-- 🧪 SAM2 integration (in progress)
+- 🧪 SAM2 integration / CUDA support (in progress)
 - 📤 Easy dataset export (YOLO and COCO)
 
 ---
