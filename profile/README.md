@@ -12,8 +12,6 @@
 </div>
 
 
-# Labeloo: The Next-Gen Annotation Platform for AI
-
 **Labeloo is an open-source annotation platform engineered for the AI era's most demanding data challenges.**
 
 We are not just rethinking tools; we are forging the future of AI data infrastructure. Built for speed, developer mastery, and unparalleled customization, Labeloo is the bridge between raw data and intelligence.
