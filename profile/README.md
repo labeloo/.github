@@ -1,38 +1,39 @@
-# 👋 Welcome to Labeloo
+# Labeloo: The Next-Gen Annotation Platform for AI
 
-🚀 **Labeloo** is an open-source annotation platform built for the AI era.
+**Labeloo** is an open-source annotation platform built for the AI era.
 
-We’re rethinking what labeling tools can be — fast, intuitive, customizable, and truly developer-friendly.
+Labeloo is engineered for the AI era's most demanding data annotation challenges. We're not just rethinking tools; we're forging the future of AI data infrastructure — built for speed, developer mastery, and unparalleled customization.
 
 ---
 
 ## 🔥 Key Features
 
-- 🎥 Video & image annotation
-- ⚡ Blazing-fast Nuxt 4 frontend
-- 🧠 Keyboard shortcut customization
-- 🧩 Modular backend with Hono, Drizzle & Zod
-- 🧪 SAM2 integration / CUDA support (in progress)
-- 📤 Easy dataset export (YOLO and COCO)
+- Advanced Video & High-Fidelity Image Annotation
+- Ultra-Responsive Nuxt 4 Frontend Architecture
+- Deep Keyboard Shortcut Customization & Workflow Optimization
+- Robust, Modular Backend: Hono, Drizzle ORM, Zod Schema Validation
+- State-of-the-Art SAM2 Integration with Future CUDA Acceleration (Ongoing)
+- Seamless Dataset Export: YOLO, COCO, and Custom Formats
+- Advanced Model Training Workflows
+- Integrated Reviewer System for Quality Assurance
+- Interactive Video Annotation Canvas with Exemplar Prompt Support
 
 ---
 
-## 🌍 Join Our Mission
+##  Join Our Mission
 
-We believe that the future of AI needs better data tools.  
-Labeloo is our take on that future — open to all, made with care.
+We are forging the foundational tools for AI's next leap. Superior data demands superior infrastructure.
+Labeloo is our commitment to this future — an open-source powerhouse, engineered with meticulous precision and a passion for developer empowerment.
 
 If you want to:
 
-- Contribute code 🧑‍💻
-- Suggest features 💡
-- Collaborate on research 🤝
+- Contribute to a cutting-edge open-source project 
+- Shape the future with feature suggestions 💡
+- Collaborate on groundbreaking AI research
 
-👉 We’d love to have you.
+ Join the Labeloo Revolution.
 
 ---
 
-## 📫 Contact
-
-📧 labeloo.contact@gmail.com  
-🐦 Coming soon: Twitter / LinkedIn / Demo site
+## Coming soon:
+Twitter / LinkedIn / Demo site -> Official Channels (Coming Soon): X (Twitter), LinkedIn, ProductHunt Launch, Dedicated Demo Environment.
