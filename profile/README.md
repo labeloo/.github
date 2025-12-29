@@ -1,15 +1,19 @@
 <div align="center">
-  <img src="./assets/labeloo-hero.png" alt="Labeloo AI Annotation Platform" width="100%" />
-  
+  <img
+    src="https://raw.githubusercontent.com/labeloo/.github/main/profile/assets/labeloo-hero.png"
+    alt="Labeloo AI Annotation Platform"
+    width="100%"
+  />
+
   <br />
-  
+
   <h1>Labeloo</h1>
-  
+
   <p>
     <b>The Next-Gen Annotation Platform for AI</b>
   </p>
-  
 </div>
+
 
 
 **Labeloo is an open-source annotation platform engineered for the AI era's most demanding data challenges.**
