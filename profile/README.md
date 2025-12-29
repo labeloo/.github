@@ -61,4 +61,4 @@ Labeloo is our commitment to this future — an open-source powerhouse, engineer
 - **ProductHunt:** *Coming Soon*
 - **Demo Environment:** *Coming Soon*
 
-For immediate inquiries: `labeloo.contact@gmail.com`
+For immediate inquiries: `etka@labeloo.app`
