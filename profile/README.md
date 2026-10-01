@@ -1,3 +1,11 @@
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/labeloo/.github/main/profile/assets/labeloo-hero.png"
+    alt="Labeloo — AI Annotation Platform"
+    width="100%"
+  />
+</div>
+
 # Labeloo
 
 **Image & video annotation platform.** Click an object and it is segmented; click
