@@ -20,7 +20,7 @@ or use the hosted cloud service. Same codebase, switched by one flag. Core is
 
 | Repo | What it is | Stack |
 |------|-----------|-------|
-| [**platform**](https://github.com/labeloo/platform) | Start here. docker-compose, `.env` template, setup script, docs — ties the services together. | Compose |
+| [**platform-setup**](https://github.com/labeloo/platform-setup) | Start here. docker-compose, `.env` template, setup script, docs — ties the services together. | Compose |
 | [**frontend**](https://github.com/labeloo/frontend) | Annotation UI: Konva canvas, magic stick, video tracking, projects, teams, admin. | Nuxt 4 · Vue 3 · Tailwind |
 | [**backend**](https://github.com/labeloo/backend) | API: auth, projects/tasks, the compute **broker**, training orchestration, billing, admin. Runs on Node (libsql) or Cloudflare (D1). | Hono · Drizzle |
 | **sam2-service** *(private for now)* | Segmentation & video object tracking (the magic stick). | FastAPI · SAM 2 · PyTorch |
@@ -29,7 +29,7 @@ or use the hosted cloud service. Same codebase, switched by one flag. Core is
 ## Run it locally
 
 ```bash
-git clone https://github.com/labeloo/platform labeloo && cd labeloo
+git clone https://github.com/labeloo/platform-setup labeloo && cd labeloo
 ./setup.sh                 # clones the four service repos as siblings
 cp .env.example .env       # then set JWT_SECRET (openssl rand -hex 32) and ADMIN_PASSWORD
 docker compose up --build  # NVIDIA GPU: add  --profile gpu
